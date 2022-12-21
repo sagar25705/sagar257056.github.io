@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: rgb(92, 226, 65);
+    width:900px;
+    margin: auto;
+}
+#container
+{
+    background-color: antiquewhite;
+    padding: 17px;
+}
+header{
+    background-color: rgb(220, 234, 98);
+    color: brown;
+    padding: 20px;
+}
+footer{
+    background-color: coral;
+    padding: 17px;
+}
+#menu{
+    background-color: rgb(21, 4, 4);
+    height: 60px;
+    padding: 15px;
+}
+#menu a{ background-color: rgb(242, 246, 250);
+    border-color: rgb(241, 234, 234);
+    border-style: solid;
+    color: rgb(7, 9, 7);
+    padding: 8px;
+    border:1px solid rgb(120, 58, 58);
+    border-radius:35px;
+}
+#menu a:hover{
+    background-color: aliceblue;
+    color: black;
+}
+#myphoto{
+    min-width: 15vw;
+    max-width: 10vw;
+    float-left;
+    padding: 35px;sss
+}
